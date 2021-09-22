@@ -1,1 +1,1 @@
-A model to classify wine using the sklearn dataset Wine.
+Sklearn wine dataset has 13 features and 178 entries. The wine is classified into three catergories class 0, class 1, class 2. RandomForestRegressor is used to find the most important featurex in the dataset. Support vector machine and a linear kernal are used to build the logistic regression model. The model scored for accuracy using cross validation. 
